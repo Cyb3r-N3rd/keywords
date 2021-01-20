@@ -1,3 +1,14 @@
 This Repo Contains Dorks for Github Searching 
 Use it like this
 "companyname" passwords => it will give you passwords in plain text if Present
+Sometimes 
+"companyname.com" password or use as needed    
+try to find a specific Service 
+"companyname.com" jdbc => it gives jaba database connection credentials
+"companyname.com" vsphere
+"companyname.com" language:python passwords => it will only gives you passwords in python scripts
+Sorting always help as in new code will give more possiblity that no one is reported that till now 
+Kindly check the user/pwd is associated with the company
+"companyname.com" language:python passwords NOT xyz.com => it will not show you xyz.com directory
+if you dont find any information on the company findthe employees github repo may be it will have senstive information
+user:cyb3r_n3rd credentials => finding info using users github 
